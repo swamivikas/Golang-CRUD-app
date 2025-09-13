@@ -59,7 +59,4 @@ Run basic tests with `go test` (add a `main_test.go` if you want— I have some 
 ## Lessons Learned
 This was my first Go API—loved how simple http and sql are, but handling errors and conversions took some trial and error. If you're learning, start with the register handler and build from there!
 
-## License
-MIT—feel free to use or modify.
 
-Questions? Hit me up on GitHub issues.
