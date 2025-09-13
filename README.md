@@ -53,8 +53,6 @@ Use Postman or curl to test the endpoints. Base URL: `http://localhost:8080`.
 
 Check your Neon dashboard to see the data changes.
 
-## Testing
-Run basic tests with `go test` (add a `main_test.go` if you want— I have some stubs for checking existence). For full testing, use Postman collections or add unit tests with mocks.
 
 ## Lessons Learned
 This was my first Go API—loved how simple http and sql are, but handling errors and conversions took some trial and error. If you're learning, start with the register handler and build from there!
